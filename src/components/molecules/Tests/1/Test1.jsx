@@ -31,7 +31,7 @@ const Test1 = (props) => {
                                         <span>федеральные</span>
                                     </li>
                                     <li>
-                                        <input type="radio"/>
+                                        <input  type="radio"/>
                                         <span>региональные</span>
                                     </li>
                                     <li>
